@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am **A-Flying-Poro** (more commonly known as **A Flying Poro**), or Chloe. I am a software developer, and I am proficient in Kotlin, Java, C# and some NodeJS.
+I am a software developer, and I am proficient in Kotlin, Java, C# and some NodeJS.
 
-I have dabbled with the development on Native Android, Web (C# .NET, NodeJS Express, Kotlin Ktor), Discord bots and some desktop application.
+I have dabbled with the development of Native Android, Web (C# .NET, NodeJS Express, Kotlin Ktor), Discord bots and some desktop applications.
 
 [✉ Currently looking for a job. I would love to get in touch with you if you are interested. ✉](mailto:aflyingporo@pm.me)
 
