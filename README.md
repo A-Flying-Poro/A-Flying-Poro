@@ -19,9 +19,7 @@ I am a software developer, and I am proficient in Kotlin, Java, C# and some Node
 
 I have dabbled with the development of Native Android, Web (C# .NET, NodeJS Express, Kotlin Ktor), Discord bots and some desktop applications.
 
-[✉ Currently looking for a job. I would love to get in touch with you if you are interested. ✉](mailto:aflyingporo@pm.me)
-
-### 😄 Pronouns
+### Pronouns
 She / Her
 
 <details>
